@@ -1,0 +1,5 @@
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. bs4
+5. urllib3
